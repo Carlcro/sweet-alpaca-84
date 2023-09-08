@@ -21,7 +21,7 @@ export default function Home(props: PageProps<HomeProps>) {
       <Head>
         <title>Fresh App with Deno KV</title>
       </Head>
-      <div class="p-4 mx-auto max-w-screen-md">
+      <div class="p-10 mx-auto max-w-screen-md">
         <img
           src="/logo.svg"
           class="w-32 h-32"
